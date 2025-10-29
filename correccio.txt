@@ -1,0 +1,16 @@
+Exercici 1. 1.75/2
+  Si el proper dia m'ensenyes que saps com es fa servir la funció zip(), et comptaré els 2 punts.
+
+Exercici 2. 1.5/2
+  Et falta calcular la diferència de llargades entre els noms.
+
+Exercici 3. 1.75/2
+La clau "nom" havia de ser una llista (la idea de posar un diccionari està bé, però no és el que es demanava)
+  
+Exercici 4. 2/2
+
+Jupyter: 1/1
+
+Github: 1/1
+
+Nota final: 9/10
